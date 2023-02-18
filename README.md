@@ -11,7 +11,8 @@ This website was created using:
 
 # Website screenshot
 
-![Alt text](./img/screenshot qr.png)
+![Alt text](https://github.com/Anzori-PR/QR-Code-Card/blob/main/img/screenshot%20qr.png)
+
 
 
 # Link
