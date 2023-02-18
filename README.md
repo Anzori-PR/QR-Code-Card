@@ -16,4 +16,4 @@ This website was created using:
 
 
 # Link
-- Live Site URL: 
+- Live Site URL: https://anzori-pr.github.io/QR-Code-Card/index.html
