@@ -11,7 +11,8 @@ This website was created using:
 
 # Website screenshot
 
-![Example image](../img/screenshot qr.png)
+![Alt text](./img/screenshot qr.png)
+
 
 # Link
 - Live Site URL: 
